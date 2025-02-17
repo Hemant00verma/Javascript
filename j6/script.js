@@ -43,10 +43,3 @@ let sale=20000;
 
 
 
-// Question- Write a MENU DRIVEN program which enter two integer and perform any one of the giveen arthemethical calculatin, depending one
-// 			of the user choice from menu.
-// 			1. ADDITION
-// 			2. SUBSTRACTION
-// 			3. MULTIPLICATION
-// 			4. DIVISION
-//   */
